@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Pro Soccer Ball",
+      "category": "Football",
+      "price": 1299,
+      "rating": 4.5,
+      "stock": 25,
+      "image": "/ball.jpg",
+      "description": "FIFA-approved match quality soccer ball with excellent grip and durability."
+    },
+    {
+      "id": 2,
+      "name": "Running Shoes (Men)",
+      "category": "Shoes",
+      "price": 3499,
+      "rating": 4.7,
+      "stock": 40,
+      "image": "/shoe.jpg",
+      "description": "Lightweight running shoes with breathable mesh and responsive cushioning."
+    },
+    {
+      "id": 3,
+      "name": "Cricket Bat (English Willow)",
+      "category": "Cricket",
+      "price": 8999,
+      "rating": 4.6,
+      "stock": 8,
+      "image": "/bat.jpg",
+      "description": "Premium English willow bat for durable performance and better stroke play."
+    },
+    {
+      "id": 4,
+      "name": "Sports Jersey (Team)",
+      "category": "Apparel",
+      "price": 799,
+      "rating": 4.2,
+      "stock": 100,
+      "image": "/tshirt.jpg",
+      "description": "Comfortable and breathable team jersey with sweat-wicking fabric."
+    },
+    {
+      "id": 5,
+      "name": "Tennis Racket",
+      "category": "Tennis",
+      "price": 5599,
+      "rating": 4.4,
+      "stock": 15,
+      "image": "/badminton.jpg",
+      "description": "High tension tennis racket with great control and power."
+    },
+    {
+      "id": 6,
+      "name": "Fitness Tracker Watch",
+      "category": "Gadgets",
+      "price": 2999,
+      "rating": 4.3,
+      "stock": 60,
+      "image": "/watch.jpg",
+      "description": "Track steps, heart rate, and workouts with long battery life."
+    }
+  ]
+}
