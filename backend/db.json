@@ -7,7 +7,7 @@
       "price": 1299,
       "rating": 4.5,
       "stock": 25,
-      "image": "/ball.jpg",
+      "image": "/Ball.jpg",
       "description": "FIFA-approved match quality soccer ball with excellent grip and durability."
     },
     {
@@ -17,7 +17,7 @@
       "price": 3499,
       "rating": 4.7,
       "stock": 40,
-      "image": "/shoe.jpg",
+      "image": "/Shoe.jpg",
       "description": "Lightweight running shoes with breathable mesh and responsive cushioning."
     },
     {
@@ -27,7 +27,7 @@
       "price": 8999,
       "rating": 4.6,
       "stock": 8,
-      "image": "/bat.jpg",
+      "image": "/Bat.jpg",
       "description": "Premium English willow bat for durable performance and better stroke play."
     },
     {
